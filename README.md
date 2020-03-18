@@ -1,3 +1,3 @@
 # RKNY
 
-Sierra.W 님께서 구축하신 ADE 입니다.
+Sierra.W 님께서 구축하신 양양 공항입니다.
